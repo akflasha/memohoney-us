@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://memohoney-us.vercel.app/sitemap.xml
